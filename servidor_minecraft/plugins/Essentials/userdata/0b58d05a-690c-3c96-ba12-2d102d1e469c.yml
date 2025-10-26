@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.116.248.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761493682831
+  login: 1761493538036
+money: '0'
+last-account-name: DolphnXM
+logoutlocation:
+  world: 09acc269-9ea8-4b78-a20e-eb510e696896
+  world-name: world
+  x: 34.25493768979445
+  y: 64.0
+  z: -23.17408648997534
+  yaw: -107.22554016113281
+  pitch: 20.850065231323242

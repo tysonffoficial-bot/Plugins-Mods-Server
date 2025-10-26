@@ -1,0 +1,72 @@
+{
+  "air_sword_parameters": {
+    "airSwordAttackSpeed": {
+      "comment": "Attack Speed of Air Sword",
+      "value": -0.1
+    },
+    "airSwordDamage": {
+      "comment": "Damage of Air Sword",
+      "value": 4
+    },
+    "airSwordDurability": {
+      "comment": "Durability of Air Sword",
+      "value": 1700
+    }
+  },
+  "fire_sword_parameters": {
+    "fireSwordAttackSpeed": {
+      "comment": "Attack Speed of Fire Sword",
+      "value": -1.4
+    },
+    "fireSwordDamage": {
+      "comment": "Damage of Fire Sword",
+      "value": 6
+    },
+    "fireSwordDurability": {
+      "comment": "Durability of Fire Sword",
+      "value": 2500
+    }
+  },
+  "earth_sword_parameters": {
+    "earthSwordAttackSpeed": {
+      "comment": "Attack Speed of Earth Sword",
+      "value": -2.4
+    },
+    "earthSwordDurability": {
+      "comment": "Durability of Earth Sword",
+      "value": 3000
+    },
+    "earthSwordDamage": {
+      "comment": "Damage of Earth Sword",
+      "value": 10
+    }
+  },
+  "water_sword_parameters": {
+    "waterSwordDamage": {
+      "comment": "Damage of Water Sword",
+      "value": 5
+    },
+    "waterSwordAttackSpeed": {
+      "comment": "Attack Speed of Water Sword",
+      "value": -0.9
+    },
+    "waterSwordDurability": {
+      "comment": "Durability of Water Sword",
+      "value": 2000
+    }
+  },
+  "god_sword_parameters": {
+    "godSwordAttackSpeed": {
+      "comment": "Attack Speed of God Sword",
+      "value": -0.6
+    },
+    "godSwordDurability": {
+      "comment": "Durability of God Sword",
+      "value": 5000
+    },
+    "godSwordDamage": {
+      "comment": "Damage of God Sword",
+      "value": 20
+    }
+  }
+}

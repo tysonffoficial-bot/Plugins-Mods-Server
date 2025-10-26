@@ -1,0 +1,38 @@
+{
+  "earth_sword": {
+    "earthSword": {
+      "comment": "Enable Earth Sword [true / false]",
+      "value": true
+    }
+  },
+  "air_sword": {
+    "airSword": {
+      "comment": "Enable Air Sword [true / false]",
+      "value": true
+    }
+  },
+  "water_sword": {
+    "waterSword": {
+      "comment": "Enable Water Sword [true / false]",
+      "value": true
+    }
+  },
+  "god_sword": {
+    "godSword": {
+      "comment": "Enable God Sword [true / false]",
+      "value": true
+    }
+  },
+  "fire_sword": {
+    "fireSword": {
+      "comment": "Enable Fire Sword [true / false]",
+      "value": true
+    }
+  },
+  "swords": {
+    "maxSword": {
+      "comment": "Type of sword for recipe: 0 for diamond, 1 for netherite [0-1, default: 0]",
+      "value": 0
+    }
+  }
+}

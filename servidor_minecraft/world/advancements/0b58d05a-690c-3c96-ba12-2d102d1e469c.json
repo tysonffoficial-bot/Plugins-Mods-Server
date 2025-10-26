@@ -1,0 +1,167 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-10-26 14:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-10-26 14:48:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-10-26 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-10-26 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-10-26 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-10-26 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-10-26 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-10-26 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-10-26 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-10-26 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-10-26 14:49:22 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/actual/custom": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/actual/trims": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/stack_ashen": {
+    "criteria": {
+      "delay": "2025-10-26 15:45:38 +0000"
+    },
+    "done": false
+  },
+  "blue:tr/v300": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/inv_checks": {
+    "criteria": {
+      "tick": "2025-10-26 15:45:38 +0000"
+    },
+    "done": false
+  },
+  "blue:tr/actual/trims_overhaul": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/actual/hide/q3": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/actual/hide/q2": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/actual/hide/q5": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/actual/hide/q4": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/actual/hide/q1": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/alarm": {
+    "criteria": {
+      "exit": "2025-10-26 15:45:38 +0000"
+    },
+    "done": false
+  },
+  "blue:tr/flow_gust": {
+    "criteria": {
+      "wind_charge": "2025-10-26 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/tags": {
+    "criteria": {
+      "tutorial_new_player": "2025-10-26 15:45:52 +0000",
+      "not_sneaking": "2025-10-26 15:45:38 +0000",
+      "tutorial_creative": "2025-10-26 15:47:04 +0000"
+    },
+    "done": false
+  },
+  "blue:root": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "blue:tr/actual/mats": {
+    "criteria": {
+      "req": "2025-10-26 15:45:38 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

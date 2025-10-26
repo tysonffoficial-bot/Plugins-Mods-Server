@@ -1,0 +1,286 @@
+{
+  "water_sword_effects": {
+    "water_breathing_effect": {
+      "comment": "Enable Water Breathing Effect [true / false]",
+      "value": true
+    },
+    "dolphin_grace_effect_duration": {
+      "comment": "Dolphin Grace Effect Duration",
+      "value": 6000
+    },
+    "water_breathing_effect_duration": {
+      "comment": "Water Breathing Effect Duration",
+      "value": 6000
+    },
+    "conduit_power_effect_duration": {
+      "comment": "Conduit Power Effect Duration",
+      "value": 6000
+    },
+    "conduit_power_effect": {
+      "comment": "Enable Conduit Power Effect [true / false]",
+      "value": true
+    },
+    "dolphin_grace_effect": {
+      "comment": "Enable Dolphin Grace Effect [true / false]",
+      "value": true
+    }
+  },
+  "fusion_sword_level_effects": {
+    "fusion_sword_level_regeneration_effect": {
+      "comment": "Level of Regeneration Effect",
+      "value": 5
+    },
+    "fusion_sword_level_health_boost_effect": {
+      "comment": "Level of Health Boost Effect",
+      "value": 5
+    },
+    "fusion_sword_level_movement_speed_effect": {
+      "comment": "Level of Movement Speed Effect",
+      "value": 5
+    },
+    "fusion_sword_level_dolphin_grace_effect": {
+      "comment": "Level of Dolphin Grace Effect",
+      "value": 5
+    },
+    "fusion_sword_level_slow_falling_effect": {
+      "comment": "Level of Slow Falling Effect",
+      "value": 5
+    },
+    "fusion_sword_level_conduit_power_effect": {
+      "comment": "Level of Conduit Power Effect",
+      "value": 5
+    },
+    "fusion_sword_level_fire_resistance_effect": {
+      "comment": "Level of Fire Resistance Effect",
+      "value": 5
+    },
+    "fusion_sword_level_damage_boost_effect": {
+      "comment": "Level of Damage Boost Effect",
+      "value": 3
+    },
+    "fusion_sword_level_absorption_effect": {
+      "comment": "Level of Absoprtion Effect",
+      "value": 3
+    },
+    "fusion_sword_level_damage_resistance_effect": {
+      "comment": "Level of Damage Resistance Effect",
+      "value": 3
+    },
+    "fusion_sword_level_jump_effect": {
+      "comment": "Level of Jump Effect",
+      "value": 5
+    },
+    "fusion_sword_level_water_breathing_effect": {
+      "comment": "Level of Water Breathing Effect",
+      "value": 5
+    }
+  },
+  "fusion_sword_effects": {
+    "fusion_sword_regeneration_effect": {
+      "comment": "Enable Regeneration Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_movement_speed_effect_duration": {
+      "comment": "Movement Speed Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_fire_resistance_effect_duration": {
+      "comment": "Fire Resistance Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_damage_boost_effect_duration": {
+      "comment": "Damage Boost Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_health_boost_effect": {
+      "comment": "Enable Health Boost Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_slow_falling_effect": {
+      "comment": "Enable Slow Falling Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_water_breathing_effect_duration": {
+      "comment": "Water Breathing Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_conduit_power_effect_duration": {
+      "comment": "Conduit Power Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_damage_boost_effect": {
+      "comment": "Enable Damage Boost Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_dolphin_grace_effect_duration": {
+      "comment": "Dolphin Grace Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_jump_effect_duration": {
+      "comment": "Jump Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_water_breathing_effect": {
+      "comment": "Enable Water Breathing Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_movement_speed_effect": {
+      "comment": "Enable Movement Speed Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_absorption_effect": {
+      "comment": "Enable Absoprtion Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_damage_resistance_effect": {
+      "comment": "Enable Damage Resistance Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_damage_resistance_effect_duration": {
+      "comment": "Damage Resistance Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_dolphin_grace_effect": {
+      "comment": "Enable Dolphin Grace Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_conduit_power_effect": {
+      "comment": "Enable Conduit Power Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_jump_effect": {
+      "comment": "Enable Jump Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_fire_resistance_effect": {
+      "comment": "Enable Fire Resistance Effect [true / false]",
+      "value": true
+    },
+    "fusion_sword_health_boost_effect_duration": {
+      "comment": "Health Boost Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_slow_falling_effect_duration": {
+      "comment": "Slow Falling Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_absorption_effect_duration": {
+      "comment": "Absoprtion Effect Duration",
+      "value": 6000
+    },
+    "fusion_sword_regeneration_effect_duration": {
+      "comment": "Regeneration Effect Duration",
+      "value": 6000
+    }
+  },
+  "air_sword_effects": {
+    "jump_effect_duration": {
+      "comment": "Jump Effect Duration",
+      "value": 6000
+    },
+    "jump_effect": {
+      "comment": "Enable Jump Effect [true / false]",
+      "value": true
+    },
+    "movement_speed_effect_duration": {
+      "comment": "Enable Movement Speed Effect Duration",
+      "value": 6000
+    },
+    "slow_falling_effect": {
+      "comment": "Slow Falling Effect [true / false]",
+      "value": true
+    },
+    "slow_falling_effect_duration": {
+      "comment": "Slow Falling Effect Duration",
+      "value": 6000
+    },
+    "movement_speed_effect": {
+      "comment": "Enable Movement Speed Effect [true / false]",
+      "value": true
+    }
+  },
+  "earth_sword_effects": {
+    "damage_resistance_effect": {
+      "comment": "Enable Damage Resistance Effect [true / false]",
+      "value": true
+    },
+    "damage_boost_effect_duration": {
+      "comment": "Damage Boost Effect Duration",
+      "value": 6000
+    },
+    "damage_boost_effect": {
+      "comment": "Enable Damage Boost Effect [true / false]",
+      "value": true
+    },
+    "absorption_effect": {
+      "comment": "Enable Absoprtion Effect [true / false]",
+      "value": true
+    },
+    "absorption_effect_duration": {
+      "comment": "Absoprtion Effect Duration",
+      "value": 6000
+    },
+    "damage_resistance_effect_duration": {
+      "comment": "Damage Resistance Effect Duration",
+      "value": 6000
+    }
+  },
+  "air_sword_level_effects": {
+    "level_movement_speed_effect": {
+      "comment": "Level of Movement Speed Effect",
+      "value": 3
+    },
+    "level_slow_falling_effect": {
+      "comment": "Level of Slow Falling Effect",
+      "value": 5
+    },
+    "level_jump_effect": {
+      "comment": "Level of Jump Effect",
+      "value": 5
+    }
+  },
+  "water_sword_level_effects": {
+    "level_dolphin_grace_effect": {
+      "comment": "Level of Dolphin Grace Effect",
+      "value": 5
+    },
+    "level_water_breathing_effect": {
+      "comment": "Level of Water Breathing Effect",
+      "value": 5
+    },
+    "level_conduit_power_effect": {
+      "comment": "Level of Conduit Power Effect",
+      "value": 5
+    }
+  },
+  "earth_sword_level_effects": {
+    "level_absorption_effect": {
+      "comment": "Level of Absoprtion Effect",
+      "value": 5
+    },
+    "level_damage_boost_effect": {
+      "comment": "Level of Damage Boost Effect",
+      "value": 5
+    },
+    "level_damage_resistance_effect": {
+      "comment": "Level of Damage Resistance Effect",
+      "value": 5
+    }
+  },
+  "fire_sword_effects": {
+    "fire_resistance_effect": {
+      "comment": "Enable Fire Resistance Effect [true / false]",
+      "value": true
+    },
+    "fire_resistance_effect_duration": {
+      "comment": "Fire Resistance Effect Duration",
+      "value": 6000
+    }
+  },
+  "fire_sword_level_effects": {
+    "level_fire_resistance_effect": {
+      "comment": "Level of Fire Resistance Effect",
+      "value": 5
+    }
+  }
+}
