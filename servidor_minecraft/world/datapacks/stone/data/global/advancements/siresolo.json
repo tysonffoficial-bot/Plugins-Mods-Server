@@ -1,0 +1,19 @@
+{
+    "display": {
+        "title": "Sire Solo",
+        "description": "",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: Sire_Solo}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
